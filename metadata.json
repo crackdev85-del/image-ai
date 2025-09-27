@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Studio",
+  "description": "An application to edit photos with text prompts using Gemini's nano-banana model (gemini-2.5-flash-image-preview) and generate new photos from text using Imagen 4.",
+  "requestFramePermissions": []
+}
